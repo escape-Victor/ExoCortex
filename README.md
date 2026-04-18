@@ -61,4 +61,10 @@ npx expo start
 
 ---
 
+## 实机演示
+
+![邮件查看](./examples/4ec1d3d6ebb26047b70ba80b6bce83be.jpg)
+![本地AI](./examples/序列05.gif)
+![博客跳转](.examples/序列07.gif)
+
 
