@@ -1,4 +1,10 @@
 # ExoCortex
+
+   > **ExoCortex: A Local-First Personal Knowledge Management & AI Assistant**
+   > *An ambitious attempt at building a "Digital Second Brain". This mobile application integrates a local LLM (Qwen 1.5B via termux), automated Anki flashcard generation (SQLite), and asynchronous data syncing to create a completely offline, privacy-first cognitive augmentation tool.*
+   > **Tech Stack:** React Native, Expo, SQLite, Asynchronous Local LLM APIs.
+   >
+
 ExoCortex 是一款面向数字极客的离线优先个人知识管理（PKM）与辅助思考系统。它将本地大语言模型（LLM）、自动化闪卡提取、书签管理以及多端文件同步无缝整合在一个纯粹、高效的终端风格界面中，旨在成为你大脑的数字延伸。
 
 ##  核心特性
